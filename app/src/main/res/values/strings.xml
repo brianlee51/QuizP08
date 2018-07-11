@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizP08</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+    <string name="clas">Class:</string>
+    <string-array name="spinnerItems">
+        <item>W65M</item>
+        <item>W67J</item>
+        <item>W67K</item>
+        <item>W67L</item>
+    </string-array>
+    <string name="save">Save</string>
+</resources>
